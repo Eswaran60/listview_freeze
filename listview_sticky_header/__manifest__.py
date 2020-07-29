@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "List View Sticky Header",
+    'name': "Tree View Header Freeze",
 
     'summary': """
-      List View Sticky Header v13.0""",
+      Tree View and one2Many Header Freeze v13.0""",
 
     'description': """
 	- List View Sticky Header
